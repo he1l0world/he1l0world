@@ -4,7 +4,7 @@
 
 <img align="top" src="https://github-readme-stats.vercel.app/api?username=he1l0world&show_icons=truehide_title=false" />
 
-Hi，this is Suyang(Dawson) Chen, I'm actively looking for any internship and fulltime working opportunity.
+Hi，this is Suyang(Dawson) Chen, I'm actively looking for an internship or full-time working opportunity.
 
 :hammer_and_pick: Skills: C, Java, Python, SQL JavaScript, Assembly Language, Algorithm, Data Structure
 
