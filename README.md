@@ -6,9 +6,9 @@
 
 Hi，this is Suyang(Dawson) Chen, I'm actively looking for an internship or full-time working opportunity.
 
-:hammer_and_pick: Skills: C, Java, Python, SQL JavaScript, Assembly Language, Algorithm, Data Structure
+:hammer_and_pick: Skills: C/C++, Java, Python, Swift, SQL JavaScript, Assembly Language, Algorithm, Data Structure, etc.
 
-🌱I'm currently learning Swift and IOS development.
+🌱Feel free to contact with me.
 
 📫Contact Information: [Email Adress](mailto:dawson0xff@gmail.com)
 
