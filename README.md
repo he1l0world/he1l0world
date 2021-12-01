@@ -12,7 +12,7 @@ Hi，this is Suyang(Dawson) Chen, I'm actively looking for an internship or full
 
 📫Contact Information: [Email Adress](mailto:dawson0xff@gmail.com)
 
-😄LinkedIn: [linkedIn](https://www.linkedin.com/in/suyang-chen-144b9a164/)
+😄LinkedIn: [linkedIn](https://www.linkedin.com/in/suyang-chen/)
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=he1l0world)
