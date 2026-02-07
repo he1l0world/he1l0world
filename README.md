@@ -8,7 +8,7 @@ Hi， this is Suyang(Dawson) Chen, currently working in a financial company, int
 
 :hammer_and_pick: Skills: C/C++, Java, Python, C#, Swift, SQL JavaScript, etc.
 
-🌱Feel free to contact with me.
+🌱Feel free to contact me.
 
 📫Contact Information: [Email Adress](mailto:dawson0xff@gmail.com)
 
